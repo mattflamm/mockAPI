@@ -1,20 +1,23 @@
 {
   "files:": [
-    "ID123": {
+    {
+    "id":"123"
       "fileName": "afile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     },
-    "ID456": {
+    {
+    "id":"456"
       "fileName": "anotherfile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     },
-    "ID789": {
+    {
+    "id":"789"
       "fileName": "athirdfile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
