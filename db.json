@@ -1,5 +1,5 @@
 {
-  "files:": {
+  "files:": [
     "ID123": {
       "fileName": "afile.pdf",
       "contentType": "CV/Resume",
@@ -21,6 +21,6 @@
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     }
-  } 
+  ] 
   
 }
