@@ -1,7 +1,7 @@
 {
   "files:": [
     {
-    "id":"123"
+      "id":"123",
       "fileName": "afile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
@@ -9,7 +9,7 @@
       "providers":["anID", "another"]
     },
     {
-    "id":"456"
+      "id":"456",
       "fileName": "anotherfile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
@@ -17,7 +17,7 @@
       "providers":["anID", "another"]
     },
     {
-    "id":"789"
+      "id":"789",
       "fileName": "athirdfile.pdf",
       "contentType": "CV/Resume",
       "catagory" : "Education",
