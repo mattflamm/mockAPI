@@ -2,25 +2,57 @@
   "files:": [
     {
       "id":"123",
-      "fileName": "afile.pdf",
-      "contentType": "CV/Resume",
-      "catagory" : "Education",
+      "fileName": "Lease.pdf",
+      "contentType": "Lease",
+      "catagory" : "Housing",
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     },
     {
       "id":"456",
-      "fileName": "anotherfile.pdf",
+      "fileName": "Resume.pdf",
       "contentType": "CV/Resume",
+      "catagory" : "Application",
+      "hutchAndEricDoYouWantThis" : "No",
+      "providers":["anID", "another"]
+    },
+    {
+      "id":"789",
+      "fileName": "Licence.pdf",
+      "contentType": "State Licence",
+      "catagory" : "Certification",
+      "hutchAndEricDoYouWantThis" : "Yes",
+      "providers":["anID", "another"]
+    },
+    {
+      "id":"321",
+      "fileName": "Transcripts.pdf",
+      "contentType": "Transcripts",
       "catagory" : "Education",
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     },
     {
-      "id":"789",
-      "fileName": "athirdfile.pdf",
-      "contentType": "CV/Resume",
+      "id":"654",
+      "fileName": "State Licence.pdf",
+      "contentType": "Different State Licence",
+      "catagory" : "Certification",
+      "hutchAndEricDoYouWantThis" : "No",
+      "providers":["anID", "another"]
+    },
+    {
+      "id":"987",
+      "fileName": "April.pdf",
+      "contentType": "Pay Stub",
       "catagory" : "Education",
+      "hutchAndEricDoYouWantThis" : "Yes",
+      "providers":["anID", "another"]
+    },
+    {
+      "id":"147",
+      "fileName": "History.pdf",
+      "contentType": "Work History",
+      "catagory" : "Application",
       "hutchAndEricDoYouWantThis" : "Yes",
       "providers":["anID", "another"]
     }
